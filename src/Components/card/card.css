@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+.card-body{
+    border: 1px solid lightgrey;
+    width: 30rem;
+    border-radius: 4px;
+    margin: 4px 0px;
+}
+
+.card-container{
+    padding: 10px 5px;
+}
+
+.circle{
+    border: 1px solid lightgrey;
+    border-radius: 1rem;
+    height: 2rem;
+    width: 2rem;
+    display: flex;
+    padding: 10px;
+    margin: 10px 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle p{
+    font-family: 'Amatic SC', cursive;
+}
+.item-no,.category{
+    margin: 0px;
+    color: grey;
+}
+
+.dish-heading{
+    margin: 15px 0px;
+}
+
+.dish-abt{
+    color: grey;
+    margin: 10px 0px;
+}
+
+.line-readmore{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 0px;
+}
+
+.line-readmore hr{
+    background-color: red;
+    width: 100%;
+}
+
+.line-readmore a{
+    color: black;
+    text-decoration: none;
+    padding: 3px 7px;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.line-readmore a:hover{
+    background-color: rgb(250, 250, 250);
+}
+
+.food{
+    position: relative;
+    width: 100%;
+    /* height: 17rem; */
+    margin: 10px 0px;
+}
+
+.order-btn{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+@media screen and (max-width:1000px) {
+    .card-body{
+        width: 22rem;
+    }
+    .line-readmore a{
+        font-size: 0.7rem;
+    }
+
+
+    
+}
+
+@media screen and (max-width:750px) {
+    .card-body{
+        width: 30rem;
+    }
+    .line-readmore a{
+        font-size: 0.7rem;
+    }
+
+
+    
+}
+
+
+@media screen and (max-width:450px) {
+    .card-body{
+        width: 22rem;
+    }
+    .line-readmore a{
+        font-size: 0.7rem;
+    }
+
+
+    
+}

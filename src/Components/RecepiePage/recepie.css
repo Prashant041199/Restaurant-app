@@ -1,0 +1,39 @@
+.heading-holder{
+    width: 100%;
+    padding: 10px 5px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.heading-holder img{
+    width: 30%;
+    border-radius: 900px;
+}
+
+.ing-holder{
+    width: 100%;
+    padding: 10px 5px;
+    text-align: left;
+}
+.ing-holder h2{
+    padding: 15px 20px;
+}
+
+.ing-holder .ing{
+    padding: 15px 20px;
+}
+
+.youtube{
+    text-align: center;
+    width: 100%;
+    height: 30rem;
+}
+
+@media screen and (max-width:100px) {
+
+    .youtube{
+        height: 10rem;
+    }
+    
+}
