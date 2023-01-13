@@ -1,5 +1,7 @@
 # Restaurant-app
 
+This app is meant to get the recepies of multiple Dishes sorted based on Breakfast, Lunch, Dinner. User can get the recepie, Ingridients, and Instruction along with video of the recepie of the dish.
+
 # This project was build using react.js and is fully responsive (Can be accessed on any Device).
 
 Note: you must have node.js installed on you system to deply this app.
@@ -35,3 +37,6 @@ Note: you must have node.js installed on you system to deply this app.
 5)Css
 6)BootStrap
 7)Firebase
+
+# Api Used
+1) TheMealDB
