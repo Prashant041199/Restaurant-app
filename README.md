@@ -1,6 +1,6 @@
 # Restaurant-app
 
-This app is meant to get the recepies of multiple Dishes sorted based on Breakfast, Lunch, Dinner. User can get the recepie, Ingridients, and Instruction along with video of the recepie of the dish.
+This app is meant to get the recipes of multiple Dishes sorted based on Breakfast, Lunch, Dinner. User can get the recipe, Ingredients, and Instruction along with video of the recipe of the dish.
 
 # This project was build using react.js and is fully responsive (Can be accessed on any Device).
 
@@ -22,7 +22,7 @@ Note: you must have node.js installed on you system to deply this app.
 
 3) After selecting click on "Cook Now" button on any Dish you want to cook.
 
-4) A modal will open with full list of Ingredients required, A Youtube video for the recepie, and the Instructions in details about how to cook the Dish.
+4) A modal will open with full list of Ingredients required, A Youtube video for the recipe, and the Instructions in details about how to cook the Dish.
 
 5) Enjoy cooking your meal.
 
